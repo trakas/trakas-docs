@@ -24,8 +24,8 @@ with multiple [packages](https://github.com/trakas/trakas/tree/master/packages)
 * [Yarn](https://yarnpkg.com/) version ≥ 1.5 (which can be checked by running `yarn version`)
 * [pnpm](https://pnpm.js.org/)
 
-:::important Choose stable version
-Stable version are recommended for all tools.
+:::important Choose version
+Stable version are highly recommended for all tools.
 :::
 
 ## JavaScript
@@ -101,5 +101,5 @@ pnpm add @trakas/react
 </Tabs>
 
 :::important
-Due to this package is designed to work for React. So `react` and `reactd-dom` must be installed as peer dependencies.
+`react` and `react-dom` must be installed as peer dependencies.
 :::

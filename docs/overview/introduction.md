@@ -30,8 +30,8 @@ So we decide to write it here, since we know that we have a better place for ref
 
 ## Why Trakas, not some "Google works"?
 
-In the beginning, We feel they are too small to be a package, just take some "google work" to find them out,
-but for now We think it should be a package for better reasons:
+In the beginning, We feel they are too small to be a package, just take some "Google work" to find them out,
+but now we think it should be a package for better reasons:
 
 1. A better place for reference
 1. Enhance the usability
@@ -40,6 +40,6 @@ but for now We think it should be a package for better reasons:
 We create basic snippets as we do in our projects. When become a good foundation, then we will have something bigger with it.
 
 :::tip Any ideas?
-If you have **any ideas or improvement for implementations**, pull requests will be welcomed.
+If you have **any ideas or improvement**, pull requests will be welcomed.
 When you've ever seen something you have to write it over and over again. Just tell us, then you have to write it only one time 😉
 :::
